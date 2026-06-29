@@ -1,4 +1,4 @@
-**Marketing Campaign Analysis using Python**
+**Marketing Campaign Analysis using Python with AI**
 
 **Project Overview**
 
